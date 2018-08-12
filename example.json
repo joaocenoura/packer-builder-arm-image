@@ -3,9 +3,9 @@
   },
   "builders": [{
     "type": "arm-image",
-    "iso_url" : "https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2017-12-01/2017-11-29-raspbian-stretch-lite.zip",
+      "iso_url" : "https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2018-06-29/2018-06-27-raspbian-stretch-lite.zip",
     "iso_checksum_type":"sha256",
-    "iso_checksum":"e942b70072f2e83c446b9de6f202eb8f9692c06e7d92c343361340cc016e0c9f",
+      "iso_checksum":"3271b244734286d99aeba8fa043b6634cad488d211583814a2018fc14fdca313",
     "last_partition_extra_size" : 1073741824
   }],  
   "provisioners": [
